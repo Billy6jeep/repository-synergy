@@ -34,12 +34,16 @@ We use the following data:
 The csv file (1) contains **13K repos** with the following characteristics and  **24,988** WhatWhy readme sections:
     
 
-*  Python as main language
-*  Not deleted and not a fork
-*  At least 50 watchers
-*  Updated in 2019
-*  English README
-*  Availability of Readme files and has sections that describe features and repo purpose based on on the [READMEClassifer](https://github.com/gprana/READMEClassifier), *What, Why* section codes.
+*  Written primarily in Python
+
+*Not archived, not a fork
+
+*Has at least 50 watchers
+
+*Last updated in 2019
+
+*Includes a README in English
+Availability of Readme files and has sections that describe features and repo purpose based on on the [READMEClassifer](https://github.com/gprana/READMEClassifier), *What, Why* section codes.
 
 
 ## 0. Data Preparation
